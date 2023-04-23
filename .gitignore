@@ -1,0 +1,7 @@
+/standard
+/variational
+/kl_loss
+/__pycache__
+
+*.gz
+*.png
